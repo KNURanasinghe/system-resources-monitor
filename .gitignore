@@ -30,9 +30,6 @@
 *.exe
 *.out
 *.app
-
-# Build & Debug
-/obj/*
-/vs/*
+*.cache
 *.vsidx
-.vs/system-resources-monitor/*.*
+*.CopyComplete

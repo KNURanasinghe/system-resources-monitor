@@ -15,3 +15,7 @@ F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\refint\sy
 F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.pdb
 F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.genruntimeconfig.cache
 F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\ref\system-resources-monitor.dll
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\System.CodeDom.dll
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\System.Management.dll
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.csproj.CopyComplete

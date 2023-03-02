@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "U8Rc9V0PGWhSosj4yWtNAVPpGhZNWCOQEacVP9jOQPkF0x5qdbuYWDfPTB0DZCGEoSL0X9QdirP2F3HeAGrReg==",
+  "dgSpecHash": "vfyWfso6+i78wUlsWXZfLs0zG2oofmHYkWJW9k2lSLxt0N8cQVm+Z9mOgvNtnKSz7Vk4bTZ8TgRkCoUBihYrHQ==",
   "success": true,
   "projectFilePath": "F:\\GitHub\\New folder\\system-resources-monitor\\system-resources-monitor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NC\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\NC\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
