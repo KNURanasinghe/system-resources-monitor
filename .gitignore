@@ -32,7 +32,6 @@
 *.app
 
 # Build & Debug
-./obj/
-./vs/
-*.vsidx
+./obj/*
+./vs/*
 *.vsidx
