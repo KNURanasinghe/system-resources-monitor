@@ -28,25 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             label1 = new Label();
+            timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 39F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(212, 36);
+            label1.Location = new Point(130, 9);
             label1.Name = "label1";
-            label1.Size = new Size(326, 70);
+            label1.Size = new Size(583, 87);
             label1.TabIndex = 0;
-            label1.Text = "CPU Monitor";
+            label1.Text = "CPU & RAM Monitor";
+            label1.TextAlign = ContentAlignment.TopCenter;
+            label1.Click += label1_Click;
+            // 
+            // timer1
+            // 
+            timer1.Tick += timer1_Tick;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(label1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Resource Monitor";
             Load += Form1_Load;
@@ -57,5 +66,6 @@
         #endregion
 
         public Label label1;
+        private System.Windows.Forms.Timer timer1;
     }
 }
