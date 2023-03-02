@@ -1,0 +1,17 @@
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\system-resources-monitor.exe
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\system-resources-monitor.deps.json
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\system-resources-monitor.runtimeconfig.json
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\system-resources-monitor.dll
+F:\GitHub\New folder\system-resources-monitor\bin\Debug\net6.0-windows\system-resources-monitor.pdb
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.csproj.AssemblyReference.cache
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system_resources_monitor.Form1.resources
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.csproj.GenerateResource.cache
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.AssemblyInfoInputs.cache
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.AssemblyInfo.cs
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.csproj.CoreCompileInputs.cache
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.dll
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\refint\system-resources-monitor.dll
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.pdb
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\system-resources-monitor.genruntimeconfig.cache
+F:\GitHub\New folder\system-resources-monitor\obj\Debug\net6.0-windows\ref\system-resources-monitor.dll
